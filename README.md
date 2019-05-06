@@ -9,6 +9,7 @@ ProJectPUBG
 - 다수의 플레이어 전투하여 1인이 생존하는 게임
 
 #### 사용 엔진 : `Unreal Engine 4 (4.19.2)`
+#### 사용 기술 : `Listen Server`, `UMG`, `LineTrace`
 
 #### 기능
 
